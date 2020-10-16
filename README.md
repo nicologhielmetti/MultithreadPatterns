@@ -1,5 +1,5 @@
 # MultithreadDesignPatterns
-Some implementations of multithread patterns.
+Implementations of some multithread design patterns.
 * ## Producer/Consumer
 ![image](https://user-images.githubusercontent.com/16907319/96274028-55153700-0fd0-11eb-93ac-9c09fc741a31.png)
 * ## ActiveObject
